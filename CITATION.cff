@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Arndt"
+  given-names: "Iris"
+  orcid: "https://orcid.org/0000-0002-2714-865X"
+- family-names: "Coenen"
+  given-names: "Douglas"
+  orcid: "https://orcid.org/0000-0002-4248-8580"
+title: "Daydacna"
+version: 0.1.0
+doi: 10.5281/zenodo.8334594
+date-released: 2023-09-11
+url: "https://doi.org/10.5281/zenodo.8334594"
