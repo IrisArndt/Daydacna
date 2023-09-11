@@ -4,7 +4,7 @@ Daydacna is a Jupyter Notebook to evaluate daily cycles in geochemical data (her
 by using continuous wavelet transform. This script creates an internal age model for the shell (with manual adjustment options) and converts the 
 data from distance to time domain. It's a useful approach if you want to learn something about the seasonality of the shell. 
 
-If your interested, please check out the accompanying open access paper:
+If your interested, please check out the accompanying open access paper.
 
 ## Status
 
@@ -17,7 +17,3 @@ I plan to make the script more widely applicable to analyse cyclicities other th
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-
-## License
-
-compare zenodo?
