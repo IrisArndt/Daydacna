@@ -1,4 +1,5 @@
 # Daydacna
+[![DOI](https://zenodo.org/badge/690005964.svg)](https://zenodo.org/badge/latestdoi/690005964)
 
 Daydacna is a Jupyter Notebook to evaluate daily cycles in geochemical data (here elemental ratios measured within Tridacna giant clam shells) 
 by using continuous wavelet transform. This script creates an internal age model for the shell (with manual adjustment options) and converts the 
